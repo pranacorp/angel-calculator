@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\bin\Debug\angel calculator.exe.config
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\bin\Debug\angel calculator.exe
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\bin\Debug\angel calculator.pdb
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\obj\Debug\angel calculator.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\obj\Debug\angel calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\obj\Debug\angel_calculator.Form1.resources
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\obj\Debug\angel_calculator.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\obj\Debug\angel calculator.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\obj\Debug\angel calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\obj\Debug\angel calculator.exe
+C:\Users\Gabriel\Desktop\angel calculator\angel calculator\angel calculator\obj\Debug\angel calculator.pdb
